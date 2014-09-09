@@ -1,0 +1,874 @@
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form10.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form11.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form12.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form13.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form14.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form15.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form16.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form17.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form18.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form19.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form2.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form20.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form21.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form22.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form23.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form24.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form25.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form26.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form27.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form28.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form29.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form3.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form30.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form31.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form32.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form33.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form4.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form5.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form6.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form7.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form8.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form9.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\Nikkhil\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form34.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.dll
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.dll
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.dll
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.pdb
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.pdb
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.pdb
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteApplicant.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeletePaper.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaper.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaperDetails.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePaper.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SeeResult.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddSingleChoiceQuestion.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMultipleChoiceQuestion.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMatchTheColumnQuestion.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SingleAnswerTest.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MultipleAnswerTest.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MatchTheColumnTest.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateQuestion.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMultipleChoiceQuestions.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMatchTheColumn.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamDetail.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExam.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamDetail.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExamType.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamType.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamType.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddEmployee.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateEmployee.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteEmployee.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChangePassword.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteQuestion.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateSingleChoice.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddApplicant.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectResult.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectSetPaper.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetPaper.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectUpdatePaper.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AdminHome.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Home.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.EmpHome.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Tutorial.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Instructions.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Result.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.FeedbackForm.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.LogoutForm.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.addPictureQuestionSingleAnswer.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionMultipleAnswer.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddQuestionsBulk.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionSingleAns.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckEmployeeResult.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChooseEmployee.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionMultipleAnswer.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionSingleAnswer.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionMultipleAnswer.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ParentForm.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.StartParent.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetAdmin.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.dll
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.dll
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.dll
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.pdb
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.pdb
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.pdb
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckEmployeeResult.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChooseEmployee.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionMultipleAnswer.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionSingleAnswer.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddQuestionsBulk.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMatchTheColumnQuestion.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMultipleChoiceQuestion.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddSingleChoiceQuestion.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteApplicant.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeletePaper.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetAdmin.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetPaper.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectSetPaper.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMatchTheColumn.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMultipleChoiceQuestions.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionMultipleAnswer.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionSingleAnswer.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateQuestion.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChangePassword.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MatchTheColumnTest.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MultipleAnswerTest.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ParentForm.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionMultipleAnswer.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionSingleAns.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Home.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AdminHome.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddEmployee.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateEmployee.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteEmployee.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateSingleChoice.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteQuestion.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.EmpHome.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExam.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamDetail.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamDetail.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaper.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaperDetails.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SeeResult.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectResult.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddApplicant.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExamType.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamType.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamType.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Tutorial.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Instructions.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SingleAnswerTest.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Result.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.FeedbackForm.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.LogoutForm.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.StartParent.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectUpdatePaper.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePaper.resources
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckSolution.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckEmployeeResult.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChooseEmployee.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionMultipleAnswer.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionSingleAnswer.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddQuestionsBulk.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMatchTheColumnQuestion.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMultipleChoiceQuestion.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddSingleChoiceQuestion.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteApplicant.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeletePaper.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetAdmin.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetPaper.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectSetPaper.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMatchTheColumn.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMultipleChoiceQuestions.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionMultipleAnswer.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionSingleAnswer.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateQuestion.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChangePassword.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MatchTheColumnTest.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MultipleAnswerTest.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ParentForm.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionMultipleAnswer.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionSingleAns.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Home.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AdminHome.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddEmployee.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateEmployee.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteEmployee.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateSingleChoice.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteQuestion.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.EmpHome.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExam.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamDetail.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamDetail.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaper.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaperDetails.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SeeResult.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectResult.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddApplicant.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExamType.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamType.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamType.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Tutorial.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Instructions.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SingleAnswerTest.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Result.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.FeedbackForm.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.LogoutForm.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.StartParent.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectUpdatePaper.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePaper.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.NoConfigResult.resources
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.dll
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.dll
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.dll
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.pdb
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.pdb
+C:\Documents and Settings\a\Desktop\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.pdb
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckSolution.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.NoConfigResult.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DetailedReport.resources
+C:\Users\sony\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckDetailed.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckDetailed.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DetailedReport.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckSolution.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckEmployeeResult.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChooseEmployee.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionMultipleAnswer.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionSingleAnswer.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddQuestionsBulk.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMatchTheColumnQuestion.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMultipleChoiceQuestion.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddSingleChoiceQuestion.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteApplicant.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeletePaper.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetAdmin.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetPaper.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectSetPaper.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMatchTheColumn.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMultipleChoiceQuestions.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionMultipleAnswer.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionSingleAnswer.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateQuestion.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChangePassword.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MatchTheColumnTest.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MultipleAnswerTest.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ParentForm.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionMultipleAnswer.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionSingleAns.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Home.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AdminHome.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddEmployee.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateEmployee.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteEmployee.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateSingleChoice.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteQuestion.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.EmpHome.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExam.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamDetail.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamDetail.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaper.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaperDetails.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SeeResult.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectResult.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddApplicant.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExamType.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamType.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamType.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Tutorial.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Instructions.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SingleAnswerTest.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Result.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.FeedbackForm.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.LogoutForm.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.StartParent.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.NoConfigResult.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectUpdatePaper.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePaper.resources
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.dll
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.dll
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.dll
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.pdb
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.pdb
+G:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.pdb
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.dll
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.dll
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.dll
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.pdb
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.pdb
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.pdb
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckDetailed.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DetailedReport.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckSolution.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckEmployeeResult.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChooseEmployee.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionMultipleAnswer.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionSingleAnswer.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddQuestionsBulk.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMatchTheColumnQuestion.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMultipleChoiceQuestion.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddSingleChoiceQuestion.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteApplicant.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeletePaper.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetAdmin.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetPaper.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectSetPaper.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMatchTheColumn.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMultipleChoiceQuestions.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionMultipleAnswer.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionSingleAnswer.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateQuestion.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChangePassword.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MatchTheColumnTest.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MultipleAnswerTest.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ParentForm.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionMultipleAnswer.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionSingleAns.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Home.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AdminHome.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddEmployee.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateEmployee.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteEmployee.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateSingleChoice.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteQuestion.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.EmpHome.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExam.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamDetail.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamDetail.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaper.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaperDetails.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SeeResult.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectResult.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddApplicant.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExamType.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamType.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamType.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Tutorial.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Instructions.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SingleAnswerTest.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Result.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.FeedbackForm.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.LogoutForm.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.StartParent.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.NoConfigResult.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectUpdatePaper.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePaper.resources
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Gauri\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.dll
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.dll
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.dll
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.pdb
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.pdb
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.pdb
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckDetailed.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DetailedReport.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckSolution.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckEmployeeResult.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChooseEmployee.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionMultipleAnswer.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionSingleAnswer.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddQuestionsBulk.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMatchTheColumnQuestion.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMultipleChoiceQuestion.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddSingleChoiceQuestion.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteApplicant.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeletePaper.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetAdmin.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetPaper.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectSetPaper.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMatchTheColumn.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMultipleChoiceQuestions.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionMultipleAnswer.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionSingleAnswer.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateQuestion.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChangePassword.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MatchTheColumnTest.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MultipleAnswerTest.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ParentForm.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionMultipleAnswer.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionSingleAns.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Home.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AdminHome.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddEmployee.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateEmployee.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteEmployee.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateSingleChoice.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteQuestion.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.EmpHome.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExam.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamDetail.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamDetail.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaper.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaperDetails.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SeeResult.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectResult.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddApplicant.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExamType.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamType.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamType.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Tutorial.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Instructions.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SingleAnswerTest.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Result.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.FeedbackForm.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.LogoutForm.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.StartParent.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.NoConfigResult.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectUpdatePaper.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePaper.resources
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.dll
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.dll
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.dll
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.pdb
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.pdb
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.pdb
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckDetailed.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DetailedReport.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckSolution.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckEmployeeResult.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChooseEmployee.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionMultipleAnswer.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionSingleAnswer.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddQuestionsBulk.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMatchTheColumnQuestion.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMultipleChoiceQuestion.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddSingleChoiceQuestion.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteApplicant.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeletePaper.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetAdmin.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetPaper.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectSetPaper.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMatchTheColumn.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMultipleChoiceQuestions.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionMultipleAnswer.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionSingleAnswer.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateQuestion.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChangePassword.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MatchTheColumnTest.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MultipleAnswerTest.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ParentForm.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionMultipleAnswer.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionSingleAns.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Home.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AdminHome.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddEmployee.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateEmployee.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteEmployee.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateSingleChoice.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteQuestion.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.EmpHome.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExam.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamDetail.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamDetail.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaper.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaperDetails.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SeeResult.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectResult.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddApplicant.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExamType.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamType.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamType.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Tutorial.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Instructions.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SingleAnswerTest.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Result.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.FeedbackForm.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.LogoutForm.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.StartParent.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.NoConfigResult.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectUpdatePaper.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePaper.resources
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.dll
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.dll
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.dll
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.pdb
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.pdb
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.pdb
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckDetailed.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DetailedReport.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckSolution.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckEmployeeResult.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChooseEmployee.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionMultipleAnswer.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionSingleAnswer.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddQuestionsBulk.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMatchTheColumnQuestion.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMultipleChoiceQuestion.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddSingleChoiceQuestion.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteApplicant.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeletePaper.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetAdmin.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetPaper.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectSetPaper.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMatchTheColumn.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMultipleChoiceQuestions.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionMultipleAnswer.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionSingleAnswer.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateQuestion.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChangePassword.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MatchTheColumnTest.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MultipleAnswerTest.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ParentForm.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionMultipleAnswer.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionSingleAns.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Home.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AdminHome.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddEmployee.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateEmployee.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteEmployee.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateSingleChoice.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteQuestion.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.EmpHome.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExam.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamDetail.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamDetail.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaper.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaperDetails.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SeeResult.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectResult.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddApplicant.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExamType.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamType.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamType.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Tutorial.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Instructions.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SingleAnswerTest.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Result.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.FeedbackForm.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.LogoutForm.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.StartParent.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectUpdatePaper.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePaper.resources
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Rohan\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.dll
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.dll
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.dll
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.pdb
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.pdb
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.pdb
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckDetailed.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DetailedReport.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckSolution.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckEmployeeResult.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChooseEmployee.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionMultipleAnswer.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionSingleAnswer.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddQuestionsBulk.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMatchTheColumnQuestion.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMultipleChoiceQuestion.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddSingleChoiceQuestion.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteApplicant.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeletePaper.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetAdmin.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetPaper.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectSetPaper.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMatchTheColumn.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMultipleChoiceQuestions.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionMultipleAnswer.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionSingleAnswer.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateQuestion.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChangePassword.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MatchTheColumnTest.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MultipleAnswerTest.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ParentForm.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionMultipleAnswer.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionSingleAns.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Home.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AdminHome.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddEmployee.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateEmployee.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteEmployee.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateSingleChoice.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteQuestion.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.EmpHome.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExam.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamDetail.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamDetail.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaper.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaperDetails.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SeeResult.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectResult.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddApplicant.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExamType.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamType.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamType.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Tutorial.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Instructions.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SingleAnswerTest.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Result.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.FeedbackForm.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.LogoutForm.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.StartParent.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectUpdatePaper.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePaper.resources
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nikkhil\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Tutorial2.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.dll
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.dll
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.dll
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.pdb
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.pdb
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.pdb
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckDetailed.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DetailedReport.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckSolution.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckEmployeeResult.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChooseEmployee.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionMultipleAnswer.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionSingleAnswer.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddQuestionsBulk.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMatchTheColumnQuestion.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMultipleChoiceQuestion.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddSingleChoiceQuestion.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteApplicant.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeletePaper.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetAdmin.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetPaper.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectSetPaper.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMatchTheColumn.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMultipleChoiceQuestions.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionMultipleAnswer.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionSingleAnswer.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateQuestion.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChangePassword.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MatchTheColumnTest.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MultipleAnswerTest.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ParentForm.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionMultipleAnswer.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionSingleAns.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Tutorial.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Tutorial2.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Home.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AdminHome.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddEmployee.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateEmployee.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteEmployee.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateSingleChoice.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteQuestion.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.EmpHome.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExam.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamDetail.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamDetail.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaper.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaperDetails.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SeeResult.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectResult.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddApplicant.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExamType.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamType.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamType.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Instructions.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SingleAnswerTest.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Result.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.FeedbackForm.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.LogoutForm.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.StartParent.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectUpdatePaper.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePaper.resources
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nikkhil\Desktop\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.dll
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.dll
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.dll
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.pdb
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.pdb
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.pdb
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckDetailed.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DetailedReport.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckSolution.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckEmployeeResult.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChooseEmployee.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionMultipleAnswer.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionSingleAnswer.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddQuestionsBulk.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMatchTheColumnQuestion.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMultipleChoiceQuestion.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddSingleChoiceQuestion.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteApplicant.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeletePaper.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetAdmin.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetPaper.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectSetPaper.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMatchTheColumn.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMultipleChoiceQuestions.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionMultipleAnswer.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionSingleAnswer.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateQuestion.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChangePassword.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MatchTheColumnTest.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MultipleAnswerTest.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ParentForm.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionMultipleAnswer.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionSingleAns.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Tutorial.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Tutorial2.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Home.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AdminHome.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddEmployee.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateEmployee.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteEmployee.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateSingleChoice.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteQuestion.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.EmpHome.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExam.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamDetail.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamDetail.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaper.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaperDetails.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SeeResult.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectResult.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddApplicant.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExamType.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamType.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamType.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Instructions.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SingleAnswerTest.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Result.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.FeedbackForm.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.LogoutForm.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.StartParent.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectUpdatePaper.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePaper.resources
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\nikkhil\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.dll
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.dll
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.dll
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Business1.pdb
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Entities2.pdb
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\Data1.pdb
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckDetailed.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DetailedReport.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckSolution.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.CheckEmployeeResult.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChooseEmployee.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionMultipleAnswer.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddPictureQuestionSingleAnswer.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddQuestionsBulk.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMatchTheColumnQuestion.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddMultipleChoiceQuestion.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddSingleChoiceQuestion.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteApplicant.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeletePaper.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetAdmin.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SetPaper.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectSetPaper.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMatchTheColumn.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateMultipleChoiceQuestions.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionMultipleAnswer.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePictureQuestionSingleAnswer.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateQuestion.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ChangePassword.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MatchTheColumnTest.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.MultipleAnswerTest.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ParentForm.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionMultipleAnswer.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.PictureQuestionSingleAns.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Tutorial.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Tutorial2.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Home.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AdminHome.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddEmployee.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateEmployee.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteEmployee.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateSingleChoice.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteQuestion.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.EmpHome.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExam.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamDetail.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamDetail.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaper.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.ViewPaperDetails.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SeeResult.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectResult.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddApplicant.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.AddExamType.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdateExamType.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.DeleteExamType.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Instructions.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SingleAnswerTest.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Result.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.FeedbackForm.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.LogoutForm.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.StartParent.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.SelectUpdatePaper.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.UpdatePaper.resources
+C:\BE Project\Final Backup\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache

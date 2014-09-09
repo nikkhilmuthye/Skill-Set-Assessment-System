@@ -1,0 +1,616 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C5EF9B65-6301-4D36-98F9-2151F7E2D612}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication10</RootNamespace>
+    <AssemblyName>WindowsFormsApplication10</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\CheckDetailed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CheckDetailed.designer.cs">
+      <DependentUpon>CheckDetailed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DetailedReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DetailedReport.designer.cs">
+      <DependentUpon>DetailedReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Employee\CheckSolution.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Employee\CheckSolution.Designer.cs">
+      <DependentUpon>CheckSolution.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\CheckEmployeeResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\CheckEmployeeResult.designer.cs">
+      <DependentUpon>CheckEmployeeResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\ChooseEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\ChooseEmployee.Designer.cs">
+      <DependentUpon>ChooseEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\AddPictureQuestionMultipleAnswer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\AddPictureQuestionMultipleAnswer.Designer.cs">
+      <DependentUpon>AddPictureQuestionMultipleAnswer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\AddPictureQuestionSingleAnswer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\AddPictureQuestionSingleAnswer.designer.cs">
+      <DependentUpon>AddPictureQuestionSingleAnswer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\AddQuestionsBulk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\AddQuestionsBulk.designer.cs">
+      <DependentUpon>AddQuestionsBulk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\AddMatchTheColumnQuestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\AddMatchTheColumnQuestion.Designer.cs">
+      <DependentUpon>AddMatchTheColumnQuestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\AddMultipleChoiceQuestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\AddMultipleChoiceQuestion.Designer.cs">
+      <DependentUpon>AddMultipleChoiceQuestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\AddSingleChoiceQuestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\AddSingleChoiceQuestion.Designer.cs">
+      <DependentUpon>AddSingleChoiceQuestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\DeleteApplicant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\DeleteApplicant.Designer.cs">
+      <DependentUpon>DeleteApplicant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\DeletePaper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\DeletePaper.Designer.cs">
+      <DependentUpon>DeletePaper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\SetAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\SetAdmin.Designer.cs">
+      <DependentUpon>SetAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\SetPaper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\SetPaper.Designer.cs">
+      <DependentUpon>SetPaper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\SelectSetPaper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\SelectSetPaper.Designer.cs">
+      <DependentUpon>SelectSetPaper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\UpdateMatchTheColumn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\UpdateMatchTheColumn.Designer.cs">
+      <DependentUpon>UpdateMatchTheColumn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\UpdateMultipleChoiceQuestions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\UpdateMultipleChoiceQuestions.Designer.cs">
+      <DependentUpon>UpdateMultipleChoiceQuestions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\UpdatePictureQuestionMultipleAnswer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\UpdatePictureQuestionMultipleAnswer.Designer.cs">
+      <DependentUpon>UpdatePictureQuestionMultipleAnswer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\UpdatePictureQuestionSingleAnswer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\UpdatePictureQuestionSingleAnswer.Designer.cs">
+      <DependentUpon>UpdatePictureQuestionSingleAnswer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\UpdateQuestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\UpdateQuestion.Designer.cs">
+      <DependentUpon>UpdateQuestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ChangePassword.Designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Employee\MatchTheColumnTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Employee\MatchTheColumnTest.Designer.cs">
+      <DependentUpon>MatchTheColumnTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Employee\MultipleAnswerTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Employee\MultipleAnswerTest.Designer.cs">
+      <DependentUpon>MultipleAnswerTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Employee\ParentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Employee\ParentForm.Designer.cs">
+      <DependentUpon>ParentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Employee\PictureQuestionMultipleAnswer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Employee\PictureQuestionMultipleAnswer.Designer.cs">
+      <DependentUpon>PictureQuestionMultipleAnswer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Employee\PictureQuestionSingleAnswer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Employee\PictureQuestionSingleAnswer.designer.cs">
+      <DependentUpon>PictureQuestionSingleAnswer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Employee\Tutorial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Employee\Tutorial.designer.cs">
+      <DependentUpon>Tutorial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Employee\Tutorial2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Employee\Tutorial2.designer.cs">
+      <DependentUpon>Tutorial2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\AdminHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\AdminHome.Designer.cs">
+      <DependentUpon>AdminHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\UpdateEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\UpdateEmployee.Designer.cs">
+      <DependentUpon>UpdateEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\DeleteEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\DeleteEmployee.Designer.cs">
+      <DependentUpon>DeleteEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\UpdateSingleChoiceQuestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\UpdateSingleChoiceQuestion.Designer.cs">
+      <DependentUpon>UpdateSingleChoiceQuestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\DeleteQuestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\DeleteQuestion.Designer.cs">
+      <DependentUpon>DeleteQuestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Employee\EmpHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Employee\EmpHome.Designer.cs">
+      <DependentUpon>EmpHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\AddExamDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\AddExamDetail.Designer.cs">
+      <DependentUpon>AddExamDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\UpdateExamDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\UpdateExamDetails.Designer.cs">
+      <DependentUpon>UpdateExamDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\DeleteExamDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\DeleteExamDetails.Designer.cs">
+      <DependentUpon>DeleteExamDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\ViewPaper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\ViewPaper.Designer.cs">
+      <DependentUpon>ViewPaper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\PaperDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\PaperDetails.Designer.cs">
+      <DependentUpon>PaperDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\SeeResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\SeeResult.Designer.cs">
+      <DependentUpon>SeeResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\SelectResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\SelectResult.Designer.cs">
+      <DependentUpon>SelectResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\AddApplicant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\AddApplicant.Designer.cs">
+      <DependentUpon>AddApplicant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\AddExamType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\AddExamType.Designer.cs">
+      <DependentUpon>AddExamType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\UpdateExamType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\UpdateExamType.Designer.cs">
+      <DependentUpon>UpdateExamType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\DeleteExamType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\DeleteExamType.Designer.cs">
+      <DependentUpon>DeleteExamType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Employee\Instructions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Employee\Instructions.Designer.cs">
+      <DependentUpon>Instructions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Employee\SingleAnswerTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Employee\SingleAnswerTest.Designer.cs">
+      <DependentUpon>SingleAnswerTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Employee\Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Employee\Result.Designer.cs">
+      <DependentUpon>Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Employee\FeedbackForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Employee\FeedbackForm.Designer.cs">
+      <DependentUpon>FeedbackForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Employee\LogoutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Employee\LogoutForm.Designer.cs">
+      <DependentUpon>LogoutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\StartParent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\StartParent.Designer.cs">
+      <DependentUpon>StartParent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Forms\Admin\SelectUpdatePaper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\SelectUpdatePaper.Designer.cs">
+      <DependentUpon>SelectUpdatePaper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin\UpdatePaper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin\UpdatePaper.Designer.cs">
+      <DependentUpon>UpdatePaper.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\CheckDetailed.resx">
+      <DependentUpon>CheckDetailed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DetailedReport.resx">
+      <DependentUpon>DetailedReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Employee\CheckSolution.resx">
+      <DependentUpon>CheckSolution.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\CheckEmployeeResult.resx">
+      <DependentUpon>CheckEmployeeResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\ChooseEmployee.resx">
+      <DependentUpon>ChooseEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\AddPictureQuestionMultipleAnswer.resx">
+      <DependentUpon>AddPictureQuestionMultipleAnswer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\AddPictureQuestionSingleAnswer.resx">
+      <DependentUpon>AddPictureQuestionSingleAnswer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\AddQuestionsBulk.resx">
+      <DependentUpon>AddQuestionsBulk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\AddMatchTheColumnQuestion.resx">
+      <DependentUpon>AddMatchTheColumnQuestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\AddMultipleChoiceQuestion.resx">
+      <DependentUpon>AddMultipleChoiceQuestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\AddSingleChoiceQuestion.resx">
+      <DependentUpon>AddSingleChoiceQuestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\DeleteApplicant.resx">
+      <DependentUpon>DeleteApplicant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\DeletePaper.resx">
+      <DependentUpon>DeletePaper.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\SetAdmin.resx">
+      <DependentUpon>SetAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\SetPaper.resx">
+      <DependentUpon>SetPaper.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\SelectSetPaper.resx">
+      <DependentUpon>SelectSetPaper.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\UpdateMatchTheColumn.resx">
+      <DependentUpon>UpdateMatchTheColumn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\UpdateMultipleChoiceQuestions.resx">
+      <DependentUpon>UpdateMultipleChoiceQuestions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\UpdatePictureQuestionMultipleAnswer.resx">
+      <DependentUpon>UpdatePictureQuestionMultipleAnswer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\UpdatePictureQuestionSingleAnswer.resx">
+      <DependentUpon>UpdatePictureQuestionSingleAnswer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\UpdateQuestion.resx">
+      <DependentUpon>UpdateQuestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Employee\MatchTheColumnTest.resx">
+      <DependentUpon>MatchTheColumnTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Employee\MultipleAnswerTest.resx">
+      <DependentUpon>MultipleAnswerTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Employee\ParentForm.resx">
+      <DependentUpon>ParentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Employee\PictureQuestionMultipleAnswer.resx">
+      <DependentUpon>PictureQuestionMultipleAnswer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Employee\PictureQuestionSingleAnswer.resx">
+      <DependentUpon>PictureQuestionSingleAnswer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Employee\Tutorial.resx">
+      <DependentUpon>Tutorial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Employee\Tutorial2.resx">
+      <DependentUpon>Tutorial2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\AdminHome.resx">
+      <DependentUpon>AdminHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\UpdateEmployee.resx">
+      <DependentUpon>UpdateEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\DeleteEmployee.resx">
+      <DependentUpon>DeleteEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\UpdateSingleChoiceQuestion.resx">
+      <DependentUpon>UpdateSingleChoiceQuestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\DeleteQuestion.resx">
+      <DependentUpon>DeleteQuestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Employee\EmpHome.resx">
+      <DependentUpon>EmpHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\AddExamDetail.resx">
+      <DependentUpon>AddExamDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\UpdateExamDetails.resx">
+      <DependentUpon>UpdateExamDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\DeleteExamDetails.resx">
+      <DependentUpon>DeleteExamDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\ViewPaper.resx">
+      <DependentUpon>ViewPaper.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\PaperDetails.resx">
+      <DependentUpon>PaperDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\SeeResult.resx">
+      <DependentUpon>SeeResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\SelectResult.resx">
+      <DependentUpon>SelectResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\AddApplicant.resx">
+      <DependentUpon>AddApplicant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\AddExamType.resx">
+      <DependentUpon>AddExamType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\UpdateExamType.resx">
+      <DependentUpon>UpdateExamType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\DeleteExamType.resx">
+      <DependentUpon>DeleteExamType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Employee\Instructions.resx">
+      <DependentUpon>Instructions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Employee\SingleAnswerTest.resx">
+      <DependentUpon>SingleAnswerTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Employee\Result.resx">
+      <DependentUpon>Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Employee\FeedbackForm.resx">
+      <DependentUpon>FeedbackForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Employee\LogoutForm.resx">
+      <DependentUpon>LogoutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\StartParent.resx">
+      <DependentUpon>StartParent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Forms\Admin\SelectUpdatePaper.resx">
+      <DependentUpon>SelectUpdatePaper.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin\UpdatePaper.resx">
+      <DependentUpon>UpdatePaper.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Business1\Business1.csproj">
+      <Project>{071DDEF9-5E4A-4354-9D96-86F5769C75A0}</Project>
+      <Name>Business1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entities2\Entities2.csproj">
+      <Project>{3830F9CA-A82D-412E-82E8-9FEC281AFF62}</Project>
+      <Name>Entities2</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\timer2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prevnext.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\navigation.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bookmark2.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mcq%28single%291.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\hexaware.jpg" />
+    <None Include="Resources\match.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

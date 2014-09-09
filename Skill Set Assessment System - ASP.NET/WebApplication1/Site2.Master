@@ -1,0 +1,118 @@
+﻿    <%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site2.master.cs" Inherits="WebApplication1.Site2" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title> ADMIN HOME</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:ContentPlaceHolder>
+    <webopt:BundleReference runat="server" Path="~/Content/css" />
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:ScriptManager runat="server">
+        <Scripts>
+            <%--To learn more about bundling scripts in ScriptManager see http://go.microsoft.com/fwlink/?LinkID=272931&clcid=0x409 --%>
+            <%--Framework Scripts--%>
+            
+            <asp:ScriptReference Name="MsAjaxBundle" />
+            <asp:ScriptReference Name="jquery" />
+            <asp:ScriptReference Name="jquery.ui.combined" />
+            <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+            <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+            <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+            <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+            <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+            <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+            <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+            <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+            <asp:ScriptReference Name="WebFormsBundle" />
+            <%--Site Scripts--%>
+
+        </Scripts>
+    </asp:ScriptManager>
+    <header>
+        <div class="content-wrapper">
+            
+            <div class="float-left">
+                    <nav>
+                        <ul id="menu">
+                            <li><a runat="server" href="~/">Question</a>
+                                <ul>
+                                    <li><a runat="server" href="~/AddSingleChoiceQuestion.aspx">Add a MCQ (single answer) Question</a></li>
+                                    <li><a runat="server" href="~/AddMultipleChoiceQuestion.aspx">Add a MCQ (mutliple answers) Question</a></li>
+                                    <li><a runat="server" href="~/AddMatchTheColoumnQuestion.aspx">Add a Match The Colomn Question</a></li>
+                                    <li><a runat="server" href="~/AddPictureQuestionSingleAnswer.aspx">Add a Picture MCQ (single answer) Question</a></li>
+                                    <li><a runat="server" href="~/AddPictureQuestionMultipleAnswer.aspx">Add a Picture MCQ (multiple answers) Question</a></li>
+                                    <li><a runat="server" href="~/">Bulk Upload</a></li>
+                                    <li><a runat="server" href="~/DeleteQuestion.aspx">Delete a Question</a></li>
+                                    <li><a runat="server" href="~/">Update a Question</a></li>
+                                </ul>
+                            </li>
+                            <li><a runat="server" href="~/About">Exam Type</a>
+                                <ul>
+                                    <li><a runat="server" href="~/AddExamType.aspx">Add Exam Type</a></li>
+                                    <li><a runat="server" href="~/DeleteExamType.aspx">Delete Exam Type</a></li>
+                                    <li><a runat="server" href="~/">Update Exam Type</a></li>
+                                </ul>
+                            </li>
+                            <li><a runat="server" href="~/">Exam Details</a>
+                                <ul>
+                                    <li><a runat="server" href="~/AddExamDetails.aspx">Add Exam Details</a></li>
+                                    <li><a runat="server" href="~/DeleteExam.aspx">Delete Exam Details</a></li>
+                                    <li><a runat="server" href="~/">Update Exam Details</a></li>
+                                </ul>
+                            </li>
+                            <li><a runat="server" href="~/Contact">Applicants</a>
+                                <ul>
+                                    <li><a runat="server" href="~/AddApplicant.aspx">Add Applicants</a></li>
+                                    <li><a runat="server" href="~/DeleteApplicant.aspx">Delete Applicants</a></li>
+                                    </ul>
+                            </li>
+                            <li><a runat="server" href="~/">Paper</a>
+                                <ul>
+                                    <li><a runat="server" href="~/SelectSetPaper.aspx">Set Paper</a></li>
+                                    <li><a runat="server" href="~/DeletePaper.aspx">Delete Paper</a></li>
+                                    <li><a runat="server" href="~/">Update Paper</a></li>
+                                    <li><a runat="server" href="~/ViewPaper.aspx">View Paper</a></li>
+                                </ul>
+                            </li>
+                            <li><a runat="server" href="~/">View Results</a>
+                                <ul>
+                                    <li><a runat="server" href="~/ChooseEmployee.aspx">View Result of Employee</a></li>
+                                    <li><a runat="server" href="~/SelectResult.aspx">View Result of Exam</a></li>
+                                    <li><a runat="server" href="~/CheckDetailed.aspx">Reports</a></li>
+                                </ul>
+                            </li>
+                                
+                            <li><a runat="server" href="~/">Change Password</a></li>
+                            <li><a runat="server" href="~/SetAdmin.aspx">Set Admin</a></li>
+                        </ul>
+
+
+                    </nav>
+
+
+            </div>
+        </div>
+    </header>
+    <div id="body">
+        <asp:ContentPlaceHolder runat="server" ID="FeaturedContent" />
+        <section class="content-wrapper main-content clear-fix">
+            <asp:ContentPlaceHolder runat="server" ID="MainContent" />
+        </section>
+        
+    </div>
+    <footer>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p>&copy; <%: DateTime.Now.Year %> - Skill Set Assessment System</p>
+            </div>
+        </div>
+    </footer>
+    </form>
+</body>
+</html>
